@@ -2,7 +2,6 @@
 
 Kamanime is a lightweight anime discovery frontend built with Vite and React.
 
-Author: karma hacks
 
 ## Overview
 
@@ -46,3 +45,4 @@ npm run build
 ## Notes
 
 The frontend expects the API to run from `kamanime-API`. Configure `src/config/config.js` to point to the API if needed.
+This is the API link : `https://github.com/Fxrize/Anime-API`
