@@ -44,7 +44,7 @@ npm run build
 
 ## Backend
 
-You can use this [Backend API](https://github.com/Fxrize/Anime-API) or build your own API.
+You can use this [Backend API](https://github.com/Fxrize/Anime-API) feel free to changes it or modify it.
 
 ## Notes
 
