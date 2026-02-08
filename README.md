@@ -47,4 +47,4 @@ npm run build
 The frontend expects the API to run from `kamanime-API`. Configure `src/config/config.js` to point to the API if needed.
 
 ## Backend
-Backend API : (https://github.com/Fxrize/Anime-API)
+[Backend API] (https://github.com/Fxrize/Anime-API)
